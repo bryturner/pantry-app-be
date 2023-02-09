@@ -1,4 +1,4 @@
-# Pantry App Capstone Project
+# Pantry App Capstone Project Back-end
 
 This is the back-end portion of my capstone project from my apprenticeship at York Solutions. 
 
