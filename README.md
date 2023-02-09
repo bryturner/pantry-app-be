@@ -8,4 +8,4 @@ Utilizes:
 - MVC Structure
 - Docker
 
-View the front-end code [here](https://github.com/bryturner/pantry-capstone-fe)
+View the front-end code [here](https://github.com/bryturner/pantry-capstone-fe).
